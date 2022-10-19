@@ -101,10 +101,6 @@ I have launched a Start-Up Organisation to take my software to market. I also pu
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thequantumdomain.thequantumdomain)
 
-### Coding Stats ###
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka--> 
 
 <br >
 
