@@ -5,13 +5,17 @@ Welcome!
 I'm Terome
 Blockchain Developer and Web3.0 Architect
 
-[![GitHub Streak]
+
 <p align="center">
-    <a href="(http://github-readme-streak-stats.herokuapp.com?user=thequantumdomain&theme=blue-green&hide_border=true&ring=60DD7D)](https://git.io/streak-stats)"><img src="https://streak-stats.demolab.com?user=thequantumdomain"/></a>
+    <a href=""><img src="http://github-readme-streak-stats.herokuapp.com?user=thequantumdomain&theme=blue-green&hide_border=true&ring=60DD7D"/></a>
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thequantumdomain&theme=blue-green&show_icons=true)
+<p align="center">
+    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=thequantumdomain&theme=blue-green&show_icons=true"/></a>
+</p>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thequantumdomain)](https://github.com/anuraghazra/github-readme-stats)
 
