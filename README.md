@@ -16,7 +16,7 @@ I have launched a Start-Up Organisation to take my software to market. I also pu
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/tjmensah?color=9cf&style=for-the-badge&logo=twitter)](https://twitter.com/tjmensah)
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-teromemensah-blue?color=9cf&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/terome-j-m-331336167/) 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-teromemensah-blue?color=9cf&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/terome-j-m-331336167/)
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-txm.ai-9cf?style=for-the-badge&logo=instagram)](https://instagram.com/txm.ai)
 
