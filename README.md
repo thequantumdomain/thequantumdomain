@@ -64,11 +64,10 @@ I have launched a Start-Up Organisation to take my software to market. I also pu
     <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequantumdomain&theme=blue-green"(https://github.com/anuraghazra/github-readme-stats)"/></a>
 </p>
 
-
 <br />
 <br />
 
-#### Bizness
+#### Business Information
 - :paperclip: [My Resume](https://github.com/thequantumdomain/thequantumdomain/blob/main/TJM%20CV%20BC.pdf)
 - :email: temens94@gmail.com
 
