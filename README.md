@@ -1,23 +1,3 @@
-[![MasterHead](your image link)]([your GitHub link](https://github.com/thequantumdomain))
-
-
-Welcome!
-I'm Terome
-Blockchain Developer and Web3.0 Architect
-
-
-<p align="center">
-    <a href=""><img src="http://github-readme-streak-stats.herokuapp.com?user=thequantumdomain&theme=blue-green&hide_border=true&ring=60DD7D"/></a>
-</p>
-
-
-<p align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=thequantumdomain&theme=blue-green&show_icons=true"/></a>
-</p>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thequantumdomain)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
