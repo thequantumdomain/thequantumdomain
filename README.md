@@ -60,8 +60,11 @@ I have launched a Start-Up Organisation to take my software to market. I also pu
 </p>
 
 
+<p align="center">
+    <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequantumdomain&theme=blue-green"(https://github.com/anuraghazra/github-readme-stats)"/></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thequantumdomain)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
