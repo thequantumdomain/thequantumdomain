@@ -1,18 +1,22 @@
 ## Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
-I'm Terome Mensah, a Full Stack Web3.0 Developer and Blockchain Engineer. 
+:uk: I'm Terome Mensah
 
-My intention is to turn Medical Data into a Digital Asset. 
+<br>
 
-:mortar_board: I am currently pursuing a Natural Sciences BSc. and will graduate mid-2023.
+Full Stack Web3.0 Developer and Blockchain Engineer. 
 
-:computer: I work on developing Decentralised Applications and programming and auditing Smart Contracts, as a foundation for Web3.0 architecture. 
-I have launched a Start-Up Organisation to take my software to market. I also publish a blog to give insight to my work and updates on my projects.
+- 🔭 I’m currently working on **Zinc Decentralized Exchange** 
+- 🌱 I’m currently learning Solidity and Rust, and encouraging Web3.0 adoption through the hosting of tutorials.
+- 🤔 I’m looking for help with developing an Enterprise Cinical Data Management Platform, built by integrating Ehtereum with IPFS (InterPlanetary File System).
+- :mortar_board: I am currently pursuing a Natural Sciences BSc. and will graduate mid-2023.
+- :computer: I work on developing Decentralised Applications and programming and auditing Smart Contracts, as a foundation for Web3.0 architecture. My current development intention is to transform Medical Data into a Digital Asset. 
+- :pound: I offer my developer expertise through freelance platforms such as Git and Fiverr, whereby I offer services such as Smart Contract Auditing, ERC-20 Token Creation, and Decentralised Application Building.
+- ⚡ Interesting Fact: I am a keen reader, with an eye for a dystopian sci-fi geopolitical story.
+- 📫 How to reach me: temens94@gmail.com.
 
-:pound: I offer my developer expertise through freelance platforms such as Git and Fiverr, whereby I offer services such as Smart Contract Auditing, ERC-20 Token Creation, and Decentralised Application Building.
-
-:mailbox: Feel free to reach out!
+### Socials ###
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/tjmensah?color=9cf&style=for-the-badge&logo=twitter)](https://twitter.com/tjmensah)
 
@@ -24,11 +28,6 @@ I have launched a Start-Up Organisation to take my software to market. I also pu
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on **Zinc Decentralized Exchange** 
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with developing an Enterprise Cinical Data Management Platform, built by integrating Ehtereum with IPFS (InterPlanetary File System).
-- 📫 How to reach me: temens94@gmail.com.
-- ⚡ Interesting Fact: I am a keen reader, with an eye for a dystopian sci-fi geopolitical story.
 
 #### Top Technologies
 
@@ -47,6 +46,11 @@ I have launched a Start-Up Organisation to take my software to market. I also pu
 [![Rust Badge]()](#)
 [![Cairo Badge]()](#)
 [![Binance Chain Badge]()](#)
+
+
+### Languages ###
+
+
 
 ### Github Stats ### 
 
