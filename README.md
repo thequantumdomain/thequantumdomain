@@ -44,10 +44,6 @@
 [![Binance Chain Badge]()](#)
 
 
-### Languages ###
-
-
-
 ### Github Stats ### 
 
 <p align="center">
