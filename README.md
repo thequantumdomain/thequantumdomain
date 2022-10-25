@@ -6,14 +6,14 @@
 <br>
 🏛 Grand Architect of the Metaverse <br>
 💻 Full Stack Web3.0 Developer and Blockchain Engineer  <br> 
-
-- 🔭 I’m currently working on **Zinc Decentralized Exchange** 
+<br> 
+- 🔭 I’m currently working on **Zinc Decentralized Exchange**
 - 🌱 I’m currently learning Solidity and Rust, and encouraging Web3.0 adoption through hosting virtual tutorials.
 - 🤔 I’m looking for help with developing an Enterprise Cinical Data Management Platform, built by integrating Ehtereum with IPFS (InterPlanetary File System).
 - :mortar_board: I am currently pursuing a Natural Sciences BSc. and will graduate mid-2023.
 - :computer: I work on developing Decentralised Applications and programming and auditing Smart Contracts, as a foundation for Web3.0 architecture. My current development intention is to transform Medical Data into a Digital Asset. 
 - :pound: I offer my developer expertise through freelance platforms such as Git and Fiverr, whereby I offer services such as Smart Contract Auditing, ERC-20 Token Creation, and Decentralised Application Building.
-- ⚡ Interesting Fact: I am a keen reader, with an eye for a dystopian sci-fi geopolitical story.
+- ⚡ Interesting Fact: I am a keen reader with a love for dystopian sci-fi geopolitical stories.
 - 📫 How to reach me: temens94@gmail.com.
 
 ### Socials ###
