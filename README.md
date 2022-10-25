@@ -6,7 +6,8 @@
 <br>
 🏛 Grand Architect of the Metaverse <br>
 💻 Full Stack Web3.0 Developer and Blockchain Engineer  <br> 
-<br> 
+<br>
+
 - 🔭 I’m currently working on **Zinc Decentralized Exchange**
 - 🌱 I’m currently learning Solidity and Rust, and encouraging Web3.0 adoption through hosting virtual tutorials.
 - 🤔 I’m looking for help with developing an Enterprise Cinical Data Management Platform, built by integrating Ehtereum with IPFS (InterPlanetary File System).
