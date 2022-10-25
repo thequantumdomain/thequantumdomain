@@ -4,7 +4,7 @@
 :uk: I'm Terome Mensah
 
 <br>
-🏛 Grand Architect of the Metaverse 
+🏛 Grand Architect of the Metaverse <br>
 💻 Full Stack Web3.0 Developer and Blockchain Engineer. 
 
 - 🔭 I’m currently working on **Zinc Decentralized Exchange** 
