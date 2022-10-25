@@ -5,10 +5,10 @@
 
 <br>
 🏛 Grand Architect of the Metaverse <br>
-💻 Full Stack Web3.0 Developer and Blockchain Engineer. 
+💻 Full Stack Web3.0 Developer and Blockchain Engineer  <br> 
 
 - 🔭 I’m currently working on **Zinc Decentralized Exchange** 
-- 🌱 I’m currently learning Solidity and Rust, and encouraging Web3.0 adoption through the hosting of tutorials.
+- 🌱 I’m currently learning Solidity and Rust, and encouraging Web3.0 adoption through hosting virtual tutorials.
 - 🤔 I’m looking for help with developing an Enterprise Cinical Data Management Platform, built by integrating Ehtereum with IPFS (InterPlanetary File System).
 - :mortar_board: I am currently pursuing a Natural Sciences BSc. and will graduate mid-2023.
 - :computer: I work on developing Decentralised Applications and programming and auditing Smart Contracts, as a foundation for Web3.0 architecture. My current development intention is to transform Medical Data into a Digital Asset. 
