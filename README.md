@@ -4,8 +4,8 @@
 :uk: I'm Terome Mensah
 
 <br>
-
-Full Stack Web3.0 Developer and Blockchain Engineer. 
+🏛 Grand Architect of the Metaverse 
+💻 Full Stack Web3.0 Developer and Blockchain Engineer. 
 
 - 🔭 I’m currently working on **Zinc Decentralized Exchange** 
 - 🌱 I’m currently learning Solidity and Rust, and encouraging Web3.0 adoption through the hosting of tutorials.
