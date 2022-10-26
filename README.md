@@ -6,7 +6,10 @@
 💻 Full Stack Web3.0 Developer and Blockchain Engineer  <br> 
 <br>
 
-- 🔭 I’m currently working on **Zinc Decentralized Exchange**
+- 🔭 I’m currently working on: <br>
+- **Zinc Decentralized Exchange** <br>
+- **Digital Spirit NFT Collection** <br>
+- **Geneblock Network v1.0** <br>
 - 🌱 I’m currently learning Solidity and Rust, and encouraging Web3.0 adoption through hosting virtual tutorials.
 - 🤔 I’m looking for help with developing an Enterprise Cinical Data Management Platform, built by integrating Ehtereum with IPFS (InterPlanetary File System).
 - :mortar_board: I am currently pursuing a Natural Sciences BSc. and will graduate mid-2023.
