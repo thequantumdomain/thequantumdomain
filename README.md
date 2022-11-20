@@ -9,7 +9,7 @@
 - **Zinc Decentralized Exchange** <br>
 - **Digital Spirit NFT Collection** <br>
 - **Geneblock Network v1.0** <br>
-- 🌱 I’m currently learning Solidity and Rust, and encouraging Web3.0 adoption through hosting virtual tutorials.
+- 🌱 I’m currently building with Solidity and encouraging Web3.0 adoption through virtual tutorials.
 - 🤔 I’m looking for help with developing an Enterprise Cinical Data Management Platform, built by integrating Ehtereum with IPFS (InterPlanetary File System).
 - :mortar_board: I am currently pursuing a Natural Sciences BSc. and will graduate mid-2023.
 - :computer: I work on developing Decentralised Applications and programming and auditing Smart Contracts. My current development intention is to transform Medical Data into a Digital Asset. 
