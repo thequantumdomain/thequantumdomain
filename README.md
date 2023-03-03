@@ -2,7 +2,7 @@
 
 
 :uk: I'm trm mns <br>
-💻 Full Stack Web Developer and Software Engineer  <br> 
+💻 Full Stack Web Developer and Software Engineer specialising in AI/ML <br> 
 <br>
 
 - 🔭 I’m currently working on: <br>
