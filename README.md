@@ -2,11 +2,11 @@
 
 
 :uk: I'm trm mns <br>
-💻 Full Stack Web Developer and Software Engineer specialising in AI/ML <br> 
+💻 Jr. Blockchain Engineer <br> 
 <br>
 
 - 🔭 I’m currently working on: <br>
-- **Zinc Decentralized Exchange** <br>
+- **EVM** <br>
 - **Geneblock Network v1.0** <br>
 - 🌱 I’m currently building with Solidity and encouraging Web3.0 adoption through virtual tutorials.
 - 🤔 I’m looking for help with developing an Enterprise Cinical Data Management Platform
