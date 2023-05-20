@@ -2,7 +2,7 @@
 
 
 :uk: I'm trm mns <br>
-💻 Jr. Blockchain Engineer <br> 
+💻  Blockchain Engineer <br> 
 <br>
 
 - 🔭 I’m currently working on: <br>
