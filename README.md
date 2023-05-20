@@ -13,7 +13,7 @@
 - :mortar_board: I am currently pursuing a Natural Sciences BSc. and will graduate mid-2023.
 - :computer: I work on developing Decentralised Applications and programming and auditing Smart Contracts.
 - :pound: I offer my developer expertise through freelance platforms such as Git, whereby I offer services such as Smart Contract Auditing, ERC-20 Token Creation, and Decentralised Application Architecture.
-- ⚡ Interesting Fact: I am a keen reader with a love for dystopian sci-fi geopolitical stories.
+- ⚡ Interesting Fact: I am a keen reader with a love for dystopian science fiction novels.
 - 📫 How to reach me: temens94@gmail.com.
 
 ### Socials ###
