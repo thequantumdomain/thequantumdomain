@@ -63,7 +63,7 @@
 <br />
 
 #### Business Information
-- :paperclip: [My Resume](https://github.com/thequantumdomain/thequantumdomain/blob/main/TJM%20CV%20BC.pdf)
+- :paperclip: [My Resume](https://github.com/thequantumdomain/thequantumdomain/blob/main/TJM%20CV%20BC%20First%20Edition.pdf)
 - :email: temens94@gmail.com
 
 #### Profile Visits 
