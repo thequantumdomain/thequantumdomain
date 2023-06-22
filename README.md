@@ -1,20 +1,22 @@
 ## Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
-:uk: I'm trm mns <br>
+:uk: I'm T.J. Mensah <br>
 💻  Blockchain Engineer <br> 
 <br>
 
-- 🔭 I’m currently working on: <br>
+- ⚒️: Areas of expertise: Financial Engineering, Distributed Computing, Blockchain, Computational Physics, Quantum Computing, Machine Learning, Artificial Intelligence, Data Analytics.
+- 🏛️: Industry: Finance
+- 🎓: Natural Sciences BSc.
+- 👷‍♂️: I develop Decentralised Applications and Smart Contracts for private enterprises and individuals.
+- 🏗️: I’m currently working on: <br>
 - **EVM** <br>
 - **Geneblock Network v1.0** <br>
-- 🌱 I’m currently building with Solidity and encouraging Web3.0 adoption through virtual tutorials.
-- 🤔 I’m looking for help with developing an Enterprise Cinical Data Management Platform
-- :mortar_board: I am currently pursuing a Natural Sciences BSc. and will graduate mid-2023.
-- :computer: I work on developing Decentralised Applications and programming and auditing Smart Contracts.
-- :pound: I offer my developer expertise through freelance platforms such as Git, whereby I offer services such as Smart Contract Auditing, ERC-20 Token Creation, and Decentralised Application Architecture.
-- ⚡ Interesting Fact: I am a keen reader with a love for dystopian science fiction novels.
-- 📫 How to reach me: temens94@gmail.com.
+- 🤔 I’m looking for help with developing an Enterprise Financial Data Management Platform.
+- 📓: Project specifications can be viewed upon request to private repositories.
+- 💷: I offer my developer services for private projects and consultations.
+- ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
+- 📫 How to reach me: Email: temens94@gmail.com Discord: quantumdomain
 
 ### Socials ###
 
