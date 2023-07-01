@@ -6,17 +6,17 @@
 <br>
 
 ⚒️: Areas of expertise: Financial Engineering, Distributed Computing, Blockchain, Computational Physics, Quantum Computing, Machine Learning, Artificial Intelligence, Data Analytics.
- 🏛️: Industry: Finance
- 🎓: Natural Sciences BSc.
- 👷‍♂️: I develop Decentralised Applications and Smart Contracts for private enterprises and individuals.
-🏗️: I’m currently working on: <br>
+<br> 🏛️: Industry: Finance
+<br> 🎓: Natural Sciences BSc.
+<br> 👷‍♂️: I develop Decentralised Applications and Smart Contracts for private enterprises and individuals.
+<br> 🏗️: I’m currently working on: <br>
 - **EVM** <br>
 - **Geneblock Network v1.0** <br>
- 🤔 I’m looking for help with developing an Enterprise Financial Data Management Platform.
- 📓: Project specifications can be viewed upon request to private repositories.
- 💷: I offer my developer services for private projects and consultations.
- ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
-  📫 How to reach me: Email: temens94@gmail.com Discord: quantumdomain
+<br> 🤔 I’m looking for help with developing an Enterprise Financial Data Management Platform.
+<br> 📓: Project specifications can be viewed upon request to private repositories.
+<br> 💷: I offer my developer services for private projects and consultations.
+<br> ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
+ <br> 📫 How to reach me: Email: temens94@gmail.com Discord: quantumdomain
 
 ### Socials ###
 
