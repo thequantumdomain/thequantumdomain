@@ -5,8 +5,8 @@
 💻  Blockchain Engineer <br> 
 <br>
 
-⚒️: Areas of expertise: Financial Engineering, Distributed Computing, Blockchain, Computational Physics, Quantum Computing, Machine Learning, Artificial Intelligence, Data Analytics.
-<br> 🏛️: Industry: Finance
+⚒️: Areas of expertise: DeFi Protocols, Layer-1 & Layer-2 Solutions, Smart Contact Security, Artificial Intelligence, Data Analytics
+<br> 🏛️: Industry: Finance, Technology, Web3.0
 <br> 🎓: Natural Sciences BSc.
 <br> 👷‍♂️: I develop Decentralised Applications and Smart Contracts for private enterprises and individuals.
 <br> 🏗️: I’m currently working on: <br>
@@ -67,3 +67,14 @@
 - :paperclip: [My Resume](https://github.com/thequantumdomain/thequantumdomain/blob/main/TJM%20CV%20BC%20First%20Edition.pdf)
 - :email: temens94@gmail.com
 
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thequantumdomain.thequantumdomain)
+
+
+<br >
+
+[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
+[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
+[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
+[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
