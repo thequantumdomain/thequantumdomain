@@ -12,9 +12,8 @@
 <br> 🏗️: I’m currently working on: <br>
 - **EVM** <br>
 - **Geneblock Network v1.0** <br>
-<br> 🤔 I’m looking for help with developing an Enterprise Financial Data Management Platform.
 <br> 📓: Project specifications can be viewed upon request to private repositories.
-<br> 💷: I offer my developer services for private projects and consultations.
+<br> 💷: I offer developer and auditing services for private projects and consultations.
 <br> ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
  <br> 📫 How to reach me: Email: temens94@gmail.com Discord: quantumdomain
 
