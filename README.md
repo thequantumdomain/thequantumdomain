@@ -2,16 +2,17 @@
 
 
 :uk: I'm T.J. Mensah <br>
-💻  Blockchain Engineer <br> 
+💻  Full-Stack Engineer <br> 
 <br>
 
-⚒️: Areas of expertise: DeFi Protocols, Layer-1 & Layer-2 Solutions, Smart Contact Security, Artificial Intelligence, Data Analytics
+⚒️: Areas of expertise: Application and Web Development, Blockchain Development, DeFi Protocols, Smart Contact Security.<br>
+AI/ML Tools, LLM, 
 <br> 🏛️: Industry: Finance, Technology, Web3.0
 <br> 🎓: Natural Sciences BSc.
-<br> 👷‍♂️: I develop Decentralised Applications and Smart Contracts for private enterprises and individuals.
+<br> 👷‍♂️: I develop Web2 and Web3 Applications and Smart Contracts for private enterprises and individuals.
 <br> 🏗️: I’m currently working on: <br>
 - **EVM** <br>
-- **Geneblock Network v1.0** <br>
+- **Aerarium Security v1.0** <br>
 <br> 📓: Project specifications can be viewed upon request to private repositories.
 <br> 💷: I offer developer and auditing services for private projects and consultations.
 <br> ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
