@@ -67,14 +67,3 @@
 #### Business Information
 - :email: temens94@gmail.com
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thequantumdomain.thequantumdomain)
-
-
-<br >
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
