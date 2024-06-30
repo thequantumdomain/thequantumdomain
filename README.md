@@ -5,7 +5,8 @@
 💻  Full-Stack Engineer <br> 
 <br>
 
-⚒️: Areas of expertise: Application and Web Development, Blockchain Development, DeFi Protocols, Smart Contact Security, AI/ML Tools, LLMs, Automation. Python, Solidity, JS.
+⚒️: Areas of expertise: Application and Web Development, Blockchain Development, DeFi Protocols, Smart Contact Security.
+<br> ⚒️: AI/ML Tools, LLMs, Automation. Python, Solidity, JS.
 <br> 🏛️: Industry: Finance, Technology, Web3.0
 <br> 🎓: Natural Sciences BSc.
 <br> 👷‍♂️: I develop Web2 and Web3 Applications and Smart Contracts for private enterprises and individuals.
