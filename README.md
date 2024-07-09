@@ -3,6 +3,7 @@
 
 :uk: I'm T.J. Mensah <br>
 💻  Full-Stack Engineer <br> 
+Portfolio Site: https://colossal-forest-slow.on-fleek.app/
 <br>
 
 ⚒️: Areas of expertise: Application and Web Development, Blockchain Development, DeFi Protocols, Smart Contact Security.
