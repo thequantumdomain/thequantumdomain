@@ -65,6 +65,5 @@ Portfolio Site: https://colossal-forest-slow.on-fleek.app/
 <br />
 <br />
 
-#### Business Information
-- :email: temens94@gmail.com
+
 
