@@ -6,16 +6,16 @@
 Portfolio Site: https://colossal-forest-slow.on-fleek.app/
 <br>
 
-⚒️: Areas of expertise: DeFi Treasury Management, Smart Contract Development, Tokenomics Analysis, Cross-chain Protocol Integration.
-<br> ⚒️: Treasury Management ($50M+ assets), Liquidity Optimization, Automated DeFi Systems. Python, Solidity, JS.
-<br> 🏛️: Industry: DeFi, Treasury Operations, Blockchain Development
-<br> 🎓: Physics (UoS), CDAA®, CBA®
-<br> 👷‍♂️: I build treasury systems, DeFi protocols, and smart contracts for enterprises managing real digital assets.
-<br> 🏗️: I'm currently working on: <br>
+⚒️ Areas of expertise: DeFi Treasury Management, Smart Contract Development, Tokenomics Analysis, Cross-chain Protocol Integration.
+<br> ⚒️ Treasury Management ($50M+ assets), Liquidity Optimization, Automated DeFi Systems. Python, Solidity, JS.
+<br> 🏛️ Industry: DeFi, Treasury Operations, Blockchain Development
+<br> 🎓 Physics (UoS), CDAA®, CBA®
+<br> 👷‍♂️ I build treasury systems, DeFi protocols, and smart contracts for enterprises managing real digital assets.
+<br> 🏗️ I'm currently working on: <br>
 - **Cross-chain Yield Optimizer** <br>
 - **Automated Treasury Dashboards** <br>
-<br> 📓: Managed 15M+ token holders ecosystem with multi-million daily trading volumes.
-<br> 💷: I offer DeFi development, treasury consulting, and smart contract auditing services.
+<br> 📓 Managed 15M+ token holders ecosystem with multi-million daily trading volumes.
+<br> 💷 I offer DeFi development, treasury consulting, and smart contract auditing services.
 <br> ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
 <br> 📫 How to reach me: Email: temens94@gmail.com Discord: quantumdomain
 
@@ -41,11 +41,6 @@ Portfolio Site: https://colossal-forest-slow.on-fleek.app/
 
 
 ### Github Stats ### 
-
-<p align="center">
-    <a href=""><img src="http://github-readme-streak-stats.herokuapp.com?user=thequantumdomain&theme=blue-green&hide_border=true&ring=60DD7D"/></a>
-</p>
-
 
 <p align="center">
     <a href=""><img src="https://github-readme-stats.vercel.app/api?username=thequantumdomain&theme=blue-green&show_icons=true&hide=contribs,prs"/></a>
