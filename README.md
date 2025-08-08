@@ -2,36 +2,30 @@
 
 
 :uk: I'm T.J. Mensah <br>
-💻  Full-Stack Engineer <br> 
+💻  Developer & Analyst <br> 
 Portfolio Site: https://colossal-forest-slow.on-fleek.app/
 <br>
 
-⚒️: Areas of expertise: Application and Web Development, Blockchain Development, DeFi Protocols, Smart Contact Security.
-<br> ⚒️: AI/ML Tools, LLMs, Automation. Python, Solidity, JS.
-<br> 🏛️: Industry: Finance, Technology, Web3.0
-<br> 🎓: Natural Sciences BSc.
-<br> 👷‍♂️: I develop Web2 and Web3 Applications and Smart Contracts for private enterprises and individuals.
-<br> 🏗️: I’m currently working on: <br>
-- **EVM** <br>
-- **Aerarium Security v1.0** <br>
-<br> 📓: Project specifications can be viewed upon request to private repositories.
-<br> 💷: I offer developer and auditing services for private projects and consultations.
+⚒️: Areas of expertise: DeFi Treasury Management, Smart Contract Development, Tokenomics Analysis, Cross-chain Protocol Integration.
+<br> ⚒️: Treasury Management ($50M+ assets), Liquidity Optimization, Automated DeFi Systems. Python, Solidity, JS.
+<br> 🏛️: Industry: DeFi, Treasury Operations, Blockchain Development
+<br> 🎓: Physics (UoS), CDAA®, CBA®
+<br> 👷‍♂️: I build treasury systems, DeFi protocols, and smart contracts for enterprises managing real digital assets.
+<br> 🏗️: I'm currently working on: <br>
+- **Cross-chain Yield Optimizer** <br>
+- **Automated Treasury Dashboards** <br>
+<br> 📓: Managed 15M+ token holders ecosystem with multi-million daily trading volumes.
+<br> 💷: I offer DeFi development, treasury consulting, and smart contract auditing services.
 <br> ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
- <br> 📫 How to reach me: Email: temens94@gmail.com Discord: quantumdomain
+<br> 📫 How to reach me: Email: temens94@gmail.com Discord: quantumdomain
 
 ### Socials ###
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/tjmensah?color=9cf&style=for-the-badge&logo=twitter)](https://twitter.com/tjmensah)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-teromemensah-blue?color=9cf&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/terome-j-m-331336167/)
-[![Instagram Badge](https://img.shields.io/badge/instagram-txm.ai-9cf?style=for-the-badge&logo=instagram)](https://instagram.com/txm.ai)
 [![Mail Badge](https://img.shields.io/badge/mail-teromemensah-9cf?style=for-the-badge&logo=gmail)](mailto:temens94@gmail.com)
 
-<!-- TODO: Add last video link -->
-
-
 #### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
