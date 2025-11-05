@@ -16,13 +16,6 @@
 <br> 📓 Managed 15M+ token holders ecosystem with multi-million daily trading volumes.
 <br> 💷 I offer DeFi development, treasury consulting, and smart contract auditing services.
 <br> ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
-<br> 📫 How to reach me: Email: temens94@gmail.com Discord: quantumdomain
-
-### Socials ###
-
-[![Twitter Badge](https://img.shields.io/twitter/follow/tjmensah?color=9cf&style=for-the-badge&logo=twitter)](https://twitter.com/tjmensah)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-teromemensah-blue?color=9cf&style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/terome-j-m-331336167/)
-[![Mail Badge](https://img.shields.io/badge/mail-teromemensah-9cf?style=for-the-badge&logo=gmail)](mailto:temens94@gmail.com)
 
 #### Top Technologies
 
