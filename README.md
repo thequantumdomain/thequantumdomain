@@ -3,7 +3,6 @@
 
 :uk: I'm T.J. Mensah <br>
 💻  Developer & Analyst <br> 
-Portfolio Site: https://colossal-forest-slow.on-fleek.app/
 <br>
 
 ⚒️ Areas of expertise: DeFi Treasury Management, Smart Contract Development, Tokenomics Analysis, Cross-chain Protocol Integration.
