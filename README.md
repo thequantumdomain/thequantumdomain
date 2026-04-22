@@ -14,7 +14,7 @@ Currently focused on independent research and tooling at the protocol layer, wit
 
 ### Current Focus
 
-- **[In Progress]** — *RWA-Adjusted Collateral Risk Framework (RACRF)*: research identifying structural risk dimensions unique to tokenised RWA collateral — redemption latency, NAV oracle divergence, transfer restriction friction, custodian counterparty risk — with empirical application to live lending market configurations
+- **[In Progress]** — *RWA-Adjusted Collateral Risk Framework (RACRF)*: research identifying structural risk dimensions unique to tokenised RWA collateral
 - DeFi protocol tooling and automation
 - On-chain data analysis and lending market analytics
 
