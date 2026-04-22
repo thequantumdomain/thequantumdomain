@@ -1,50 +1,47 @@
-## Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# T.J. Mensah
 
+**Onchain Operations · RWA Protocol · DeFi Research**
 
-:uk: I'm T.J. Mensah <br>
-💻  Developer & Analyst <br> 
-<br>
+London, UK &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/terome-j-m-331336167/) &nbsp;·&nbsp; [Substack](https://substack.com/@txm9)
 
-⚒️ Areas of expertise: DeFi Treasury Management, Smart Contract Development, Tokenomics Analysis, Cross-chain Protocol Integration.
-<br> ⚒️ Treasury Management ($50M+ assets), Liquidity Optimization, Automated DeFi Systems. Python, Solidity, JS.
-<br> 🏛️ Industry: DeFi, Treasury Operations, Blockchain Development
-<br> 🎓 Physics (UoS), CDAA®, CBA®
-<br> 👷‍♂️ I build treasury systems, DeFi protocols, and smart contracts for enterprises managing real digital assets.
-<br> 🏗️ I'm currently working on: <br>
-- **Cross-chain Yield Optimizer** <br>
-- **Automated Treasury Dashboards** <br>
-<br> 📓 Managed 15M+ token holders ecosystem with multi-million daily trading volumes.
-<br> 💷 I offer DeFi development, treasury consulting, and smart contract auditing services.
-<br> ⚡ Interesting Fact: I am a keen reader with a love for dystopian science-fiction novels.
+---
 
-#### Top Technologies
+Operator and independent researcher working at the intersection of institutional finance and decentralised infrastructure. My background spans DeFi protocol operations, on-chain treasury management, and RWA market structure — across organisations managing $50M+ in digital assets for 15M+ token holders.
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Typescript Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
-<br>
-[![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&amp;logo=ethereum&amp;logoColor=white)](#)
-[![Web3 Badge](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&amp;logo=web3.js&amp;logoColor=white)](#)
-[![Solidity Badge](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&amp;logo=solidity&amp;logoColor=white)](#)
-[![VSCode Badge](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white)](#)
+Currently focused on independent research and tooling at the protocol layer, with an active interest in graduate-level work at the intersection of financial engineering and decentralised systems.
 
+---
 
-### Github Stats ### 
+### Current Focus
+
+- **[In Progress]** — *RWA-Adjusted Collateral Risk Framework (RACRF)*: research identifying structural risk dimensions unique to tokenised RWA collateral — redemption latency, NAV oracle divergence, transfer restriction friction, custodian counterparty risk — with empirical application to live lending market configurations
+- DeFi protocol tooling and automation
+- On-chain data analysis and lending market analytics
+
+---
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**Protocols & Infrastructure:** Morpho · Pendle · Ethena · ERC-4626 · MPC/multi-sig · Fordefi · Tenderly
+
+---
+
+### Credentials
+
+CDAA® &nbsp;·&nbsp; CBA® &nbsp;·&nbsp; Physics (University of Southampton) &nbsp;·&nbsp; Cyfrin Security
+
+Contributed to EPSRC-funded research: *GeneBlock* — blockchain-secured genomic data at the University of Exeter.
+
+---
 
 <p align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=thequantumdomain&theme=blue-green&show_icons=true&hide=contribs,prs"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=thequantumdomain&theme=transparent&show_icons=true&hide=contribs,prs&title_color=333333&text_color=555555&icon_color=333333&border_color=e0e0e0" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequantumdomain&theme=transparent&title_color=333333&text_color=555555&border_color=e0e0e0&layout=compact" height="150"/>
 </p>
-
-
-<p align="center">
-    <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequantumdomain&theme=blue-green"(https://github.com/anuraghazra/github-readme-stats)"/></a>
-</p>
-
-<br />
-<br />
-
-
-
