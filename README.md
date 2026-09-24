@@ -8,7 +8,7 @@ London, UK &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/terome-j-m-3313
 
 Operator and independent researcher working at the intersection of institutional finance and decentralised infrastructure. My background spans DeFi protocol operations, on-chain treasury management, and RWA market structure — across organisations managing $50M+ in digital assets for 15M+ token holders.
 
-Currently focused on independent research and tooling at the protocol layer, with an active interest in graduate-level work at the intersection of financial engineering and decentralised systems.
+Currently focused on independent research and tooling at the protocol layer for treasury management.
 
 ---
 
