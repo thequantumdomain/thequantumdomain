@@ -1,47 +1,80 @@
 # T.J. Mensah
 
-**Onchain Operations · RWA Protocol · DeFi Research**
+**Financial Systems Engineer · Onchain Operations · RWA Infrastructure**
 
-London, UK &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/terome-j-m-331336167/) &nbsp;·&nbsp; [Substack](https://substack.com/@txm9)
+London, UK · [LinkedIn](https://www.linkedin.com/in/terome-j-m-331336167/) · [Substack](https://substack.com/@txm9)
 
----
+Connecting legacy finance to on-chain systems. Institutional payment rails, RWA
+issuance operations, treasury automation, DeFi protocol operations. Been part of
+teams managing $50M+ in digital assets across 15M+ token holders, and $1B+ TVL in
+tokenised real-world assets.
 
-Operator and independent researcher working at the intersection of institutional finance and decentralised infrastructure. My background spans DeFi protocol operations, on-chain treasury management, and RWA market structure — across organisations managing $50M+ in digital assets for 15M+ token holders.
+Where a bank transfer becomes a mint transaction. Where a manual reconciliation
+becomes an automated pipeline.
 
-Currently focused on independent research and tooling at the protocol layer for treasury management.
+## Experience
 
----
+- **RWA issuance and lifecycle operations** — vault mint/redeem mechanics, NAV
+  reporting, proof-of-reserves attestation, reconciliation between off-chain
+  custodians and on-chain state.
+- **Payment rails and legacy finance integration** — moving value between Faster
+  Payments, SEPA, and SWIFT rails and on-chain settlement, plus the reconciliation
+  and controls layer that makes the two trustworthy together.
+- **Treasury automation** — replacing manual, spreadsheet-driven reconciliation with
+  scripted pipelines. Python and SQL to transform, validate, and match data across
+  systems.
+- **Security and access governance** — transaction whitelisting policy, MPC and
+  multi-sig wallet governance, calldata review before signing. Fordefi, Gnosis Safe.
+- **Automation and AI-assisted workflows** — agentic pipelines for
+  monitoring, research, and reconciliation tasks.
 
-### Current Focus
+## Current focus
 
-- **[In Progress]** — *RWA-Adjusted Collateral Risk Framework (RACRF)*: research identifying structural risk dimensions unique to tokenised RWA collateral
-- DeFi protocol tooling and automation
-- On-chain data analysis and lending market analytics
+- `[In Progress]` **RACRF (Collateral Misfits)** — research on structural
+  collateral-risk dimensions specific to tokenised RWA collateral in DeFi lending
+  markets (Morpho, Aave, Pendle-integrated markets).
+- Operational and treasury systems consulting for institutions issuing or adopting
+  RWAs, and diversifying into digital assets.
+- On-chain and off-chain data analytics for lending market and collateral risk
+  monitoring.
 
----
+## Stack
 
-### Stack
+**Protocols & infrastructure**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=chainlink&logoColor=white)
+![Morpho](https://img.shields.io/badge/Morpho-1B1B3A?style=flat&logoColor=white)
+![Pendle](https://img.shields.io/badge/Pendle-2F2F2F?style=flat&logoColor=white)
+![Ethena](https://img.shields.io/badge/Ethena-6A5ACD?style=flat&logoColor=white)
+![LayerZero](https://img.shields.io/badge/LayerZero-000000?style=flat&logoColor=white)
+![ERC--4626](https://img.shields.io/badge/ERC--4626-627EEA?style=flat&logoColor=white)
 
-**Protocols & Infrastructure:** Morpho · Pendle · Ethena · ERC-4626 · MPC/multi-sig · Fordefi · Tenderly
+**Security & custody**
 
----
+![Gnosis Safe](https://img.shields.io/badge/Gnosis%20Safe-12FF80?style=flat&logo=safe&logoColor=black)
+![Fordefi](https://img.shields.io/badge/Fordefi-1A1A2E?style=flat&logoColor=white)
+![Tenderly](https://img.shields.io/badge/Tenderly-3E3E3E?style=flat&logoColor=white)
 
-### Credentials
+**Operations & monitoring**
 
-CDAA® &nbsp;·&nbsp; CBA® &nbsp;·&nbsp; Physics (University of Southampton) &nbsp;·&nbsp; Cyfrin Security
+![1Token](https://img.shields.io/badge/1Token-2D5BFF?style=flat&logoColor=white)
+![Blockaid](https://img.shields.io/badge/Blockaid-0B0B0B?style=flat&logoColor=white)
+![Canary](https://img.shields.io/badge/Canary-D4A017?style=flat&logoColor=white)
+![TRES](https://img.shields.io/badge/TRES-2E7D32?style=flat&logoColor=white)
 
-Contributed to EPSRC-funded research: *GeneBlock* — blockchain-secured genomic data at the University of Exeter.
+**Automation & data**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thequantumdomain&theme=transparent&show_icons=true&hide=contribs,prs&title_color=333333&text_color=555555&icon_color=333333&border_color=e0e0e0" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequantumdomain&theme=transparent&title_color=333333&text_color=555555&border_color=e0e0e0&layout=compact" height="150"/>
-</p>
+## Credentials
+
+CDAA® · CBA® · Cyfrin Blockchain Security & Development · ACCA FinTech Certificate ·
+Physics HND, University of Southampton
+
+Contributed to EPSRC-funded research: GeneBlock, blockchain-secured genomic data,
+University of Exeter.
