@@ -74,7 +74,7 @@ becomes an automated pipeline.
 ## Credentials
 
 CDAA® · CBA® · Cyfrin Blockchain Security & Development · ACCA FinTech Certificate ·
-Physics HND, University of Southampton
+Physics, University of Southampton
 
 Contributed to EPSRC-funded research: GeneBlock, blockchain-secured genomic data,
 University of Exeter.
